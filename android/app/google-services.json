@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "906059093970",
+    "project_id": "offroadist-whatsapp",
+    "storage_bucket": "offroadist-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906059093970:android:856e82982fe3811d115a0b",
+        "android_client_info": {
+          "package_name": "Offroadist.WhatsApp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906059093970-4b78mar6g0ljevbe280nktrqmv3tqrec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Offroadist.WhatsApp.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "906059093970-5j8s7g6vahf4vkjptf4rq2800gpg1b1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQEC-u62ZuEYYd-mXWaf-UyKzSwVtDOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906059093970-5j8s7g6vahf4vkjptf4rq2800gpg1b1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906059093970-qfr4hcucdhncn6suicpkv879l6g65ad3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "offroadist.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906059093970:android:98ce800205231b26115a0b",
+        "android_client_info": {
+          "package_name": "offroadist.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906059093970-a2t9el6702nifq39imn82q00ilec2d11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "offroadist.whatsapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "906059093970-5j8s7g6vahf4vkjptf4rq2800gpg1b1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQEC-u62ZuEYYd-mXWaf-UyKzSwVtDOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906059093970-5j8s7g6vahf4vkjptf4rq2800gpg1b1h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906059093970-qfr4hcucdhncn6suicpkv879l6g65ad3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "offroadist.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
